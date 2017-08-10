@@ -8,6 +8,7 @@
 # install dependencies
 yarn 
 ## note: install by 'yarn' instead of 'npm install' 
+## you can install 'yarn' by 'brew' or go official website for more detail.
 
 # serve with hot reload at localhost:8080
 npm run dev
