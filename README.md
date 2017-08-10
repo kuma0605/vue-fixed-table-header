@@ -1,6 +1,10 @@
 # vue-fixed-table-header
 
-> fixed table header of vue2
+> fixed table header of vue2 
+
+## works well in all browser
+### but one issue that scrollbar only hidden in chrome and browsers on phones.
+### solutions are welcomed.
 
 ## Build Setup
 
