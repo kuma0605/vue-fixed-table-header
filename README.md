@@ -3,8 +3,6 @@
 > fixed table header of vue2 
 
 ## works well in all browser
-### but one issue that scrollbar only hidden in chrome and browsers on phones.
-### solutions are welcomed.
 
 ## Build Setup
 
@@ -21,4 +19,4 @@ npm run dev
 npm run build
 ```
 
-For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
+
